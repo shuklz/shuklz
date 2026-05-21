@@ -64,6 +64,14 @@ I am also interested in software, automation, iOS development, VR/AR/XR, and usi
 
 ---
 
+## 🚀 Featured Projects
+
+<a href="https://github.com/shuklz/3sstudio.net">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuklz&repo=3sstudio.net&theme=default" alt="3sstudio.net" />
+</a>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
