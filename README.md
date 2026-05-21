@@ -64,17 +64,6 @@ I am also interested in software, automation, iOS development, VR/AR/XR, and usi
 
 ---
 
-## 🚀 Featured Projects
-
-<a href="https://github.com/shuklz/StayCount">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuklz&repo=StayCount&theme=default" alt="StayCount" />
-</a>
-<a href="https://github.com/shuklz/MedMetrics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuklz&repo=MedMetrics&theme=default" alt="MedMetrics" />
-</a>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
