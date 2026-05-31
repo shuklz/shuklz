@@ -19,7 +19,8 @@ Currently VP - Finance & Digital Solution at Mittal Energy Investments Pte Ltd, 
 ## 🔗 Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjay%20Shukla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-shukla-19776b7b/)
-
+[![3S Studio](https://img.shields.io/badge/3S%20Studio-3sstudio.net-FF6B35?style=for-the-badge&logo=apple&logoColor=white)](https://3sstudio.net)
+[![Art Portfolio](https://img.shields.io/badge/Art-sanjayshukla.art-9B59B6?style=for-the-badge&logo=artstation&logoColor=white)](https://sanjayshukla.art)
 ---
 
 ## 🧭 About
