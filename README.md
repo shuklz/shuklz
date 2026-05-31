@@ -52,6 +52,8 @@ I am also interested in software, automation, iOS development, VR/AR/XR, and usi
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![VR/AR/XR Development](https://img.shields.io/badge/VR%2FAR%2FXR%20Development-6D28D9?style=for-the-badge)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Claris FileMaker](https://img.shields.io/badge/Claris%20FileMaker-000000?style=for-the-badge&logo=claris&logoColor=white)
 
 ---
 
